@@ -44,3 +44,14 @@
  `Git` is a open source distributed version control software that tracks the changes in files. In Git, we can keep track of the files in something called a repository or repo. We can use the Git commands on the command line or GUI to manage your repo.
 
  `Github` on the other hand is not software, it's a platform. It is a web-based hosting service for Git repositories. It offers all of Git’s DVCS SCM and has some additional features. This includes collaboration functionality like project management, support ticket management, and bug tracking. With GitHub, developers can share their repositories, access other developers’ repositories, and store remote copies of repositories to serve as backups.
+
+ ### Q:5 Stages of Git
+
+ Git has three main states that your files can reside in
+ 
+  - Modified
+  - Staged
+  - Committed
+ 
+ `Modified` means that you have changed the file but have not committed it to your database yet. `Staged` means that you have marked a modified file in its current version to go into your next commit snapshot. `Committed` means that the data is safely stored in your local database.
+

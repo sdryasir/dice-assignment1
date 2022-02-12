@@ -53,5 +53,13 @@
   - Staged
   - Committed
  
- `Modified` means that you have changed the file but have not committed it to your database yet. `Staged` means that you have marked a modified file in its current version to go into your next commit snapshot. `Committed` means that the data is safely stored in your local database.
+ ***Modified*** means that you have changed the file but have not committed it to your database yet. ***Staged*** means that you have marked a modified file in its current version to go into your next commit snapshot. ***Committed*** means that the data is safely stored in your local database.
+
+  ### Q:6 3 methods of git reset?
+
+ `git reset` is a powerful command that is used to undo local changes to the state of a Git repo. Git reset operates on "The Three Trees of Git". These trees are the Commit History (HEAD), the Staging Index, and the Working Directory. There are three command line options that correspond to the three trees:
+
+ - `git reset --soft`
+ - `git reset --mixed`
+ - `git reset --hard`
 

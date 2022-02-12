@@ -21,3 +21,20 @@
 #### Continuous Deployment (CD)
 
 `Continuous Deployment (CD)` is a software release process that uses automated testing to validate if changes to a codebase are correct and stable for immediate autonomous deployment to a production environment. Delivery is the precursor to deployment. In delivery, there is a final manual approval step before production release.
+
+### Q:3 What are the benefits of Cloud Computing?
+
+> #### Benefits of Cloud Computing
+> 
+> - Cost Savings
+> - Security
+> - Flexibility
+> - Mobility
+> - Insight
+> - Increased Collaboration
+> - Quality Control
+> - Disaster Recovery
+> - Loss Prevention
+> - Automatic Software Updates
+> - Competitive Edge
+> - Sustainability

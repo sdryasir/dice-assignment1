@@ -38,3 +38,9 @@
 > - Automatic Software Updates
 > - Competitive Edge
 > - Sustainability
+
+### Q:4 Difference b/w Git & Github
+
+ `Git` is a open source distributed version control software that tracks the changes in files. In Git, we can keep track of the files in something called a repository or repo. We can use the Git commands on the command line or GUI to manage your repo.
+
+ `Github` on the other hand is not software, it's a platform. It is a web-based hosting service for Git repositories. It offers all of Git’s DVCS SCM and has some additional features. This includes collaboration functionality like project management, support ticket management, and bug tracking. With GitHub, developers can share their repositories, access other developers’ repositories, and store remote copies of repositories to serve as backups.
